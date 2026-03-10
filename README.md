@@ -198,7 +198,19 @@ Building intelligent systems and solving real-world problems with Machine Learni
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaikify&layout=compact&theme=tokyonight"/>
 
 </p>
+# Mini Code Editor
 
+A live HTML/CSS/JS code editor built using pure front-end technologies.  
+
+**Live Demo:** [Click here to open](https://dikshaikify.github.io/mini-code-editor/)
+
+**Features:**
+- HTML, CSS, JS editors
+- Live preview
+- Dark/Light mode toggle
+- Fully responsive
+
+**GitHub Repo:** [Source Code](https://github.com/dikshaikify/mini-code-editor)
 ---
 
 # 🔥 GitHub Streak
