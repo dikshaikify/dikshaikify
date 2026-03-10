@@ -152,6 +152,32 @@ Building intelligent systems and solving real-world problems with Machine Learni
 </p>
 
 ---
+---
+
+# 🧠 Competitive Programming
+
+<h2 align="center">💻 LeetCode Stats</h2>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/dikshakoppad?theme=dark&font=Baloo&ext=contest"/>
+</p>
+
+---
+
+<h2 align="center">🍽 CodeChef Profile</h2>
+
+<p align="center">
+<a href="https://www.codechef.com/users/dikshakoppad">
+<img src="https://img.shields.io/badge/CodeChef-DikshaKoppad-brown?style=for-the-badge&logo=codechef"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CodeChef%20Rating-View%20Profile-orange?style=for-the-badge&logo=codechef"/>
+</p>
+
+---
+
 
 ## 🟢 GeeksforGeeks Stats
 
