@@ -145,13 +145,7 @@ Building intelligent systems and solving real-world problems with Machine Learni
 
 # 🧠 Coding Practice
 
-## 💻 LeetCode Stats
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/dikshakoppad?theme=dark&font=Baloo&ext=contest"/>
-</p>
-
----
 ---
 
 # 🧠 Competitive Programming
