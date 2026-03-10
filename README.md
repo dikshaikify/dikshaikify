@@ -142,6 +142,14 @@ Building intelligent systems and solving real-world problems with Machine Learni
 </p>
 
 ---
+## 🖥 Mini Code Editor
+
+![Mini Code Editor](https://img.shields.io/badge/Mini-Code_Editor-blue?style=for-the-badge&logo=github)  
+
+A live HTML/CSS/JS code editor with live preview and dark mode.  
+
+**Live Demo:** [Click Here](https://dikshaikify.github.io/mini-code-editor/)  
+**Source Code:** [GitHub Repo](https://github.com/dikshaikify/mini-code-editor)
 
 # 🧠 Coding Practice
 
