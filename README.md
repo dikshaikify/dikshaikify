@@ -33,7 +33,7 @@ Building intelligent systems and solving real-world problems with Machine Learni
 - 📊 Data Analyst  
 - 💻 Competitive Programmer  
 - 🌱 Currently learning **Machine Learning, Advanced Java & DSA**  
-- 🎯 Goal: Become **Top 1% Software Engineer**
+-
 
 ---
 
