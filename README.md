@@ -151,10 +151,6 @@ A live HTML/CSS/JS code editor with live preview and dark mode.
 **Live Demo:** [Click Here](https://dikshaikify.github.io/mini-code-editor/)  
 **Source Code:** [GitHub Repo](https://github.com/dikshaikify/mini-code-editor)
 
-## 🖥 Mini Code Editor
-![Mini Code Editor](assets/mini-code-editor.png)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://dikshaikify.github.io/mini-code-editor/)
-[![Source Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/dikshaikify/mini-code-editor)
 
 # 🧠 Coding Practice
 
@@ -211,20 +207,8 @@ A live HTML/CSS/JS code editor with live preview and dark mode.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaikify&layout=compact&theme=tokyonight"/>
 
 </p>
-# Mini Code Editor
 
-A live HTML/CSS/JS code editor built using pure front-end technologies.  
 
-**Live Demo:** [Click here to open](https://dikshaikify.github.io/mini-code-editor/)
-
-**Features:**
-- HTML, CSS, JS editors
-- Live preview
-- Dark/Light mode toggle
-- Fully responsive
-
-**GitHub Repo:** [Source Code](https://github.com/dikshaikify/mini-code-editor)
----
 
 # 🔥 GitHub Streak
 
