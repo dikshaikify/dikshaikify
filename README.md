@@ -11,7 +11,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Diksha+Koppad;Machine+Learning+Engineer;Data+Analyst;Competitive+Programmer;Future+Top+Software+Engineer;Passionate+about+AI+and+Algorithms"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm👋,+Diksha+Koppad;Machine+Learning+Engineer;Data+Analyst;Competitive+Programmer;Future+Top+Software+Engineer;Passionate+about+AI+and+Algorithms"/>
 </p>
 
 <h3 align="center">Machine Learning Engineer | Data Analyst | Software Engineer</h3>
@@ -33,7 +33,7 @@ Building intelligent systems and solving real-world problems with Machine Learni
 - 📊 Data Analyst  
 - 💻 Competitive Programmer  
 - 🌱 Currently learning **Machine Learning, Advanced Java & DSA**  
--
+
 
 ---
 
