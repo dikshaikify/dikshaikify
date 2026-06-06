@@ -229,14 +229,17 @@ A live HTML/CSS/JS code editor with live preview and dark mode.
 ---
 
 
-<!-- Contribution Snake -->
+#<!-- Contribution Snake -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dikshaikify/dikshaikify/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dikshaikify/dikshaikify/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dikshaikify/dikshaikify/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dikshaikify/dikshaikify/output/github-snake.svg" />
+  </picture>
 </p>
----
-
+-----
 # 💬 Random Developer Quote
 
 <p align="center">
