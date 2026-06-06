@@ -231,7 +231,7 @@ A live HTML/CSS/JS code editor with live preview and dark mode.
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dikshaikify/Diksha_Profile/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/dikshaikify/dikshaikify/output/github-contribution-grid-snake.svg">
 </p>
 ---
 
