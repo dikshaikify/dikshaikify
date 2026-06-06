@@ -210,10 +210,12 @@ A live HTML/CSS/JS code editor with live preview and dark mode.
 
 
 
+
+
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshaikify&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=dikshaikify&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
